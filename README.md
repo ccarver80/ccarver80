@@ -12,9 +12,11 @@
 
 ### Connect with me on:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ccarver80)
-[![Website](https://img.shields.io/badge/Website?&style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ccarver80)
+
+### Personal Website 💻
+[Personal Website](https://www.carver.codes)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ccarver80&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccarver80&layout=compact)](https://github.com/ccarver80/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=ccarver80)
+![profileViews](https://komarev.com/ghpvc/?username=ccarver80)
