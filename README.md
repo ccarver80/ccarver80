@@ -11,7 +11,7 @@
 - Carver.Codes (Personal Website) [Link to page](https://www.carver.codes)
 
 ### Connect with me on:
-[[Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ccarver80)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ccarver80)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ccarver80&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
