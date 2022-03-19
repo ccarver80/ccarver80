@@ -1,5 +1,5 @@
 ## Hi, I'm Chris Carver
-### I ❤️ Front end, and Back end software development. 
+### I ❤️ Front and Back end software development. 
 ### I currently live in North Dakota, USA. 🌎
 ### My hobbies include: 
 - Playing and watching ice hockey 🏒
