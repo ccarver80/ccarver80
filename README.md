@@ -7,7 +7,7 @@
 - Selling on eBay 💸
 - Enjoying time with my family 👨‍👩‍👧‍👦
 ### I am currently working on: 
-- OilField Game (Mobile game built with React Native) 
+- Oil Field Game (Mobile game built with React Native) 
 - GetNailed.art (Website for press-on nails) [github repo](https://github.com/ccarver80/GetNailed)
 - Carver.Codes (Personal Website) [Link to page](https://www.carver.codes)
 
