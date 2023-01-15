@@ -7,8 +7,8 @@
 - Selling on eBay 💸
 - Enjoying time with my family 👨‍👩‍👧‍👦
 ### I am currently working on: 
-- Freelance @ Stone Mountain Risk 
-- GetNailed.art (Website for press-on nails) [Link to site](https://www.getnailed.art)
+- Full Time @ Health In Tech as Software Developer
+- TailsMidwest.com (Rescue and Foster animal shelter) [Link to site](https://www.https://tailsmidwest.netlify.app/)
 - Carver.Codes (Personal Website) [Link to page](https://www.carver.codes)
 
 ### Connect with me on:
